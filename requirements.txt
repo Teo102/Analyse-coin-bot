@@ -1,4 +1,5 @@
-python-telegram-bot==20.7
+pyTelegramBotAPI
 aiohttp
-requests
 base58
+requests
+python-dotenv
