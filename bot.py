@@ -5,7 +5,8 @@ from datetime import datetime
 from typing import Dict, Optional, Any
 import aiohttp
 import base58
-from telegram import Update
+import telebot
+#from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from dotenv import load_dotenv
 
